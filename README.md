@@ -26,6 +26,9 @@ The ultimate goal is to extract meaningful insights from the analysis that can i
 
 **Common Python Libraries Used:**
 > Pandas: For data manipulation and analysis, particularly with DataFrames.
+
 > NumPy: For numerical operations and array manipulation.
+
 > Matplotlib: For creating static, animated, and interactive visualizations.
+
 > Seaborn: For creating aesthetically pleasing and informative statistical graphics.
