@@ -14,3 +14,12 @@ EDA is a crucial phase where the dataset is explored to uncover trends, patterns
 > Examining the impact of factors like online ordering and table booking on restaurant performance.
 
 > Understanding pricing trends and customer spending behavior.
+
+**Visualization:**
+Python libraries like Matplotlib and Seaborn are extensively used to create various visualizations, such as bar plots, scatter plots, histograms, and heatmaps, to visually represent the findings from EDA and make insights more accessible.
+
+**Feature Engineering:**
+New features or variables may be derived from existing ones to enhance the analysis and provide deeper insights. For example, creating a "cost per person" feature from "average cost for two."
+
+**Drawing Insights and Recommendations:**
+The ultimate goal is to extract meaningful insights from the analysis that can inform strategic decisions. This might include identifying popular cuisines in specific locations, understanding the factors influencing high ratings, or determining optimal pricing strategies.
