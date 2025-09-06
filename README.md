@@ -23,3 +23,9 @@ New features or variables may be derived from existing ones to enhance the analy
 
 **Drawing Insights and Recommendations:**
 The ultimate goal is to extract meaningful insights from the analysis that can inform strategic decisions. This might include identifying popular cuisines in specific locations, understanding the factors influencing high ratings, or determining optimal pricing strategies.
+
+**Common Python Libraries Used:**
+> Pandas: For data manipulation and analysis, particularly with DataFrames.
+> NumPy: For numerical operations and array manipulation.
+> Matplotlib: For creating static, animated, and interactive visualizations.
+> Seaborn: For creating aesthetically pleasing and informative statistical graphics.
