@@ -3,3 +3,10 @@ Zomato sales analysis using Python involves examining a dataset containing infor
 
 **Data Acquisition and Preprocessing:**
 This initial step involves loading the Zomato dataset (often obtained from platforms like Kaggle) into a Python environment, usually using the Pandas library. Subsequently, data cleaning and preprocessing are performed to handle missing values, correct inconsistencies, and transform data types for accurate analysis.
+
+**Exploratory Data Analysis (EDA):**
+EDA is a crucial phase where the dataset is explored to uncover trends, patterns, and relationships. This can involve:
+**.**Analyzing restaurant types, cuisines, and their popularity.
+**.**Investigating the distribution of ratings and votes to understand customer satisfaction.
+**.**Examining the impact of factors like online ordering and table booking on restaurant performance.
+**.**Understanding pricing trends and customer spending behavior.
