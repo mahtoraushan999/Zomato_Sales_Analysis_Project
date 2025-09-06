@@ -7,10 +7,10 @@ This initial step involves loading the Zomato dataset (often obtained from platf
 **Exploratory Data Analysis (EDA):**
 EDA is a crucial phase where the dataset is explored to uncover trends, patterns, and relationships. This can involve:
 
-Analyzing restaurant types, cuisines, and their popularity.
+**>**Analyzing restaurant types, cuisines, and their popularity.
 
-Investigating the distribution of ratings and votes to understand customer satisfaction.
+**>**Investigating the distribution of ratings and votes to understand customer satisfaction.
 
-Examining the impact of factors like online ordering and table booking on restaurant performance.
+**>**Examining the impact of factors like online ordering and table booking on restaurant performance.
 
-Understanding pricing trends and customer spending behavior.
+**>**Understanding pricing trends and customer spending behavior.
